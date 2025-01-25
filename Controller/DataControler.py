@@ -1,0 +1,2 @@
+fonction for each : 
+ d
