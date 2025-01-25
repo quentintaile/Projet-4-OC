@@ -1,6 +1,3 @@
-from views.view import View
-
-
 class Match:
     def __init__(self, name, players_pair):
         # Initialise un match avec deux joueurs.
